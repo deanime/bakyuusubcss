@@ -1,0 +1,273 @@
+body#layout #main-wrap{width: 535px;float: left;}
+body#layout #sidebar-wrap{float: right;width: 250px;}
+body#layout #footer-widget .sidebar {width: 265px;float: left;}
+body#layout:after {content:"DESIGN BY CMONFROZEN";font-size: 15px !important;position: relative;top: -5px;}
+
+/* Blog pager By Bakyuusubs */
+#blog-pager{clear:both;margin:30px auto;text-align:center; padding: 7px; }
+.blog-pager {background: none;}
+.displaypageNum a,.showpage a,.pagecurrent{font-size: 13px;padding: 5px 12px;margin-right:5px; color: #3E5801; background-color:#E0EDC1;}
+.displaypageNum a:hover,.showpage a:hover, .pagecurrent{background:#FEF6DF;text-decoration:none;color: #E16800;}
+#blog-pager .pagecurrent{font-weight:bold;color: #FFF;background:#0097A7;}
+ .showpageOf{display:none!important}
+#blog-pager .pages{border:none;}
+
+/* CSS Edited By Fansubloggertemplate.blogspot.com */
+.ongoinginfo {
+    overflow: hidden;
+    float: left;
+    width: 346px;
+    height: 139px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+}
+.ongoinginfo img {
+    width: 105px;
+    padding: 2px;
+    border: 1px solid #0097A7;
+    height: 133px;
+    margin-right: 5px;
+    float: left;
+}
+.onleft {
+    overflow: hidden;
+    position: relative;
+}
+.onleft h2 {
+    text-transform: none;
+    font-size: 13px;
+    margin: 0px;
+    font-family: helvetica;
+    border-bottom: 0px none;
+    padding: 0px;
+}
+.onleft .kiri {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    font-size: 11px;
+    color: #696969;
+}
+.onleft .kiri span a {
+    color: #696969;
+}
+.onleft .kiri a {
+    color: #696969;
+}
+.cuplik {
+    color: #696969;
+    font-size: 11px;
+}
+
+/* CSS Download Box By Fansubloggertemplate.blogspot.com dont removed this*/
+.dl-box {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E5E5;
+    float: left;
+    font-family: Arial,Tahoma,"Lucida Sans Unicode","Lucida Grande";
+    font-size: 12px;
+    line-height: 12px;
+    margin: 0px 0px 20px;
+    outline: 0px none;
+    overflow: hidden;
+    padding: 20px;
+    vertical-align: baseline;
+    width: 590px;
+}
+.dl-title {
+    background-color: #0097A7;
+    background-position: 7px 6px;
+    background-repeat: no-repeat no-repeat;
+    border: 1px none;
+    color: #FFF;
+    float: left;
+    font-family: Tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0px 0px 3px;
+    outline: 0px none;
+    padding: 10px 0px 10px 35px;
+    vertical-align: baseline;
+    width: 555px;
+}
+.dl-item {
+    background-color: #FFF;
+    background-position: 7px 6px;
+    background-repeat: no-repeat no-repeat;
+    border: 0px none;
+    float: left;
+    font-family: Tahoma;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 0px 0px 2px;
+    outline: 0px none;
+    padding: 10px 0px 10px 35px;
+    vertical-align: baseline;
+    width: 555px;
+}
+/*Nav Menu*/
+#top-BD{background:#0097A7;height:40px;width:990px;min-width:970px;position:fixed;top:0;left:180px;z-index:9999;overflow:hidden;}
+#top-BD ul{margin:0 auto;width:970px;list-style-type:none;height:30px}
+#top-BD ul li{float:left}
+#top-BD ul li a{position:relative;line-height:0px;border:0px solid;padding:10px 5px;color:#000;font-size:13px;text-shadow:0 -1px 0 #000;display:block;text-decoration:none;font-weight:700;text-transform:uppercase;font-family:FontAwesome}
+#top-BD ul li a:hover{color:#fff;border-top:3px solid #FFF}
+.BDsosial a{display:block;height:50px;width:50px;padding:0 4px;float:right;background:url(http://1.bp.blogspot.com/-hQKmPzvFCU8/Ue7FWBeCjMI/AAAAAAAABk8/0iFSHsrQijo/s1600/Sharing+buttons.png) no-repeat transparent;-webkit-transition:ease-in 0.2s all;-moz-transition:ease-in 0.2s all;transition:all 0.2s ease-in;cursor:pointer}
+.BDsosial a.googleplus{background-position:0 -58px}
+.BDsosial a.googleplus:hover{background-position:0 0}
+.BDsosial a.twitter{background-position:0 -290px}
+.BDsosial a.twitter:hover{background-position:0 -232px}
+.BDsosial a.facebook{background-position:0 -406px}
+.BDsosial a.facebook:hover{background-position:0 -348px}
+.BDsosial a.rss{background-position:0 -174px}
+.BDsosial a.rss:hover{background-position:0 -116px}
+*/ 
+----------------------------------------------------------------- */
+.bagiin  {
+    padding: 5px 10px 5px 10px;
+    border-radius: 5px;
+    border-top:2px solid #09F;
+    border-bottom:2px solid #09F;
+    margin:10px 0;
+    height:21px;}
+.bagiin p{
+    font-family: Open Sans;
+    font-size:15px;
+    float:left;
+    margin-right:10px;
+    font-weight:300;}
+.imganime {
+    float: left;
+    margin-right: 1px;
+}
+.imganime img {
+    width: 166px;
+    height: 213px;
+    border: 1px solid #E7E7E7;
+    padding: 4px;
+    margin-top: 0px;
+    border-radius: 0px;
+    background: none repeat scroll 0% 0% #FFF;
+}
+.data {
+    position: relative;
+}
+.infos {
+    font-family: "Open sans",sans-serif;
+    font-size: 12px;
+    line-height: 25px;
+    padding: 0px 5px;
+    border-bottom: 2px solid #FFF;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.infos:nth-child(2n+1) {
+    background: none repeat scroll 0% 0% #d2cccc;
+}
+.infos b {
+    display: block;
+    float: left;
+    width: 100px;
+}
+.infos a {
+    color: #333;
+}
+.deskripsi {
+    text-align: justify;
+    font-size: 14px;
+    margin: 1px 0px;
+    font-family: "Open sans",sans-serif;
+    border: 1px solid #E1EAF0;
+    padding: 10px;
+}
+.deskripsi b {
+    text-align: justify;
+    font-size: 14px;
+    font-family: "Open sans",sans-serif;
+}
+.isi {
+    color: #333;
+    font-size: 12px;
+    font-family: "Open sans",sans-serif;
+}
+/* table menu */
+#poslab {
+    border-collapse: collapse;
+    table-layout:fixed;
+    width: 632px;
+}
+
+#poslab td, #poslab th {
+    position: relative;
+    border-collapse: collapse;
+    font-size: 1em;
+    border: 1px solid #fff;
+    padding: 3px 7px 2px 7px;
+}
+#poslab td.mat {
+    width: 50.4%;
+    font-size: 12px;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-collapse: collapse;
+    background-size: 14px auto;
+    background-position: 0px center;
+}
+#poslab td.tam {
+    width: 21%;
+    font-size: 12px;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    border-collapse: collapse;
+    background-size: 14px auto;
+    background-position: 0px center;
+}
+#poslab td.alt {
+    float: right;
+    width: 21%;
+    font-size: 12px;
+    text-align: center;
+    margin-right: 0px;
+    color: #505050;
+    font-family: "Open sans",sans-serif;
+    border-collapse: collapse;
+    background: none repeat scroll 0% 0% #E5E8F0;
+}
+#poslab tr.alt td {
+    color: #000000;
+    font-family: "Open sans",sans-serif;
+    border-bottom: 1px solid #FFF;
+    background-color: #eacbcb;
+    border-collapse: collapse;
+}
+.social-buttons{position:fixed;top:150px;width:45px;z-index:9999}
+.button-left{left:0}
+.button-right{right:0}
+.social-buttons #twitter-btn .social-icon,.social-buttons #facebook-btn .social-icon,.social-buttons #google-btn .social-icon,.social-buttons #rss-btn .social-icon,.social-buttons #pinterest-btn .social-icon,.social-buttons #youtube-btn .social-icon{background-color:#33353B;background-image:url(http://1.bp.blogspot.com/-zt3csy2DqGo/U661h1iTakI/AAAAAAAAAFc/v5tUjZIJDHs/s1600/mas-icons.png)}
+.button-left #facebook-btn span{background-position:right 10px}
+.button-left #twitter-btn span{background-position:right -35px}
+.button-left #google-btn span{background-position:right -127px}
+.button-left #rss-btn span{background-position:right -80px}
+.button-right #facebook-btn span{background-position:12px 10px}
+.button-right #twitter-btn span{background-position:11px -35px}
+.button-right #google-btn span{background-position:10px -127px}
+.button-right #rss-btn span{background-position:11px -80px}
+.social-buttons #facebook-btn:hover .social-icon{background-color:#3B5998}
+.social-buttons #twitter-btn:hover .social-icon{background-color:#62BDB2}
+.social-buttons #google-btn:hover .social-icon{background-color:#DB4A39}
+.social-buttons #rss-btn:hover .social-icon{background-color:#FF8B0F}
+.social-buttons #pinterest-btn:hover .social-icon{background-color:#D43638}
+.social-buttons #youtube-btn:hover .social-icon{background-color:#C4302B}
+.social-buttons a:hover .social-text{display:block}
+.button-left .social-icon{-moz-transition:background-color .4s ease-in 0;-webkit-transition:background-color .4s ease-in 0;background-repeat:no-repeat;display:block;float:left;height:43px;margin-bottom:2px;width:43px}
+.button-left .social-text{display:none;float:right;font-size:1em;font-weight:700;white-space:nowrap;margin:11px 40px 11px 0}
+.button-right .social-icon{-moz-transition:background-color .4s ease-in 0;-webkit-transition:background-color .4s ease-in 0;background-repeat:no-repeat;display:block;float:right;height:43px;margin-bottom:2px;width:43px}
+.button-right .social-text{display:none;float:left;font-size:80%;font-weight:700;white-space:nowrap;margin:11px 0 11px 40px}
+.social-buttons .social-text{color:#FFF}
+.button-left #pinterest-btn span,.button-right #pinterest-btn span{background-position:11px -177px}
+.button-left #youtube-btn span,.button-right #youtube-btn span{background-position:11px -223px}
+
