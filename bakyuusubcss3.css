@@ -1,0 +1,11 @@
+.post{margin:0 10px 10px !important;border-bottom:1px solid #0097A7;padding:0 0 10px !important;line-height:19px !important;}
+.post-title{font-size:14px;font-family:&#39;Oswald&#39;,sans-serif;font-weight:400;margin:0 0 3px;}
+#blog-pager{margin:0 10px!important;float:none !important;width:auto !important;}
+.tagimg{width:124px;height:70px;float:left;overflow:hidden;border:1px solid #313131;margin-right:11px;}
+.tagimg img{height:100%;width:100%;}
+.post-desc{overflow:hidden;background:#F7F7F7;border:1px solid #0097A7;padding:5px 7px;}
+.infofansubs{margin:3px 10px 2px 0px;line-height:20px;color:#FFF;padding:10px;min-height:150px;background:#0097A7 url(http://4.bp.blogspot.com/-7tB18fzfE1k/VjIuvhzBXwI/AAAAAAAAA74/2v2jG501hvg/s1600/Non-non-Biyori---011.gif)no-repeat;background-position:0px center;-webkit-background-size:130px;-moz-background-size:130px;-o-background-size:130px;background-size:130px;}
+.infofansubs h2{margin:0;text-transform:uppercase;font-size:13px;padding-left:125px;padding-bottom:5px;}
+.infofansubs p{padding-left:125px;font-size:12px;}
+.post-footer, .post-inf{font-size:12px;font-family:sans-serif;}
+.showpageArea span{border:1px solid #0097A7;padding:5px 10px;margin:2px;font-size:13px;font-weight:700;font-family:sans-serif;text-transform:uppercase;display: block;float: left;}
