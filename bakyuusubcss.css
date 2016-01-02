@@ -111,15 +111,6 @@ body#layout:after {content:"DESIGN BY CMONFROZEN";font-size: 15px !important;pos
 #top-BD ul li{float:left;}
 #top-BD ul li a{position:relative;line-height:5px;padding:10px 5px;color:#FFF;font-size:13px;text-decoration:none;font-weight:700;text-transform:uppercase;font-family:FontAwesome;}
 #top-BD ul li:hover{background:rgba(44, 139, 197, 0.8);}
-.BDsosial a{display:block;height:50px;width:50px;padding:0 4px;float:right;background:url(http://1.bp.blogspot.com/-hQKmPzvFCU8/Ue7FWBeCjMI/AAAAAAAABk8/0iFSHsrQijo/s1600/Sharing+buttons.png) no-repeat transparent;-webkit-transition:ease-in 0.2s all;-moz-transition:ease-in 0.2s all;transition:all 0.2s ease-in;cursor:pointer}
-.BDsosial a.googleplus{background-position:0 -58px}
-.BDsosial a.googleplus:hover{background-position:0 0}
-.BDsosial a.twitter{background-position:0 -290px}
-.BDsosial a.twitter:hover{background-position:0 -232px}
-.BDsosial a.facebook{background-position:0 -406px}
-.BDsosial a.facebook:hover{background-position:0 -348px}
-.BDsosial a.rss{background-position:0 -174px}
-.BDsosial a.rss:hover{background-position:0 -116px}
 */ 
 ----------------------------------------------------------------- */
 .bagiin  {
