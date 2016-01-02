@@ -106,11 +106,11 @@ body#layout:after {content:"DESIGN BY CMONFROZEN";font-size: 15px !important;pos
     width: 555px;
 }
 /*Nav Menu*/
-#top-BD{background:#0097A7;height:40px;width:990px;min-width:970px;position:fixed;top:0;left:180px;z-index:9999;overflow:hidden;}
-#top-BD ul{margin:0 auto;width:970px;list-style-type:none;height:30px}
-#top-BD ul li{float:left}
-#top-BD ul li a{position:relative;line-height:0px;border:0px solid;padding:10px 5px;color:#000;font-size:13px;text-shadow:0 -1px 0 #000;display:block;text-decoration:none;font-weight:700;text-transform:uppercase;font-family:FontAwesome}
-#top-BD ul li a:hover{color:#fff;border-top:3px solid #FFF}
+#top-BD{background: #0097A7;height: 65px;width: 990px;min-width: 970px;position: relative;left: 180px;z-index: 9999;overflow: hidden;}
+#top-BD ul{margin:30px auto;width:970px;list-style-type:none;height:30px;}
+#top-BD ul li{float:left;}
+#top-BD ul li a{position:relative;line-height:5px;padding:10px 5px;color:#FFF;font-size:13px;text-decoration:none;font-weight:700;text-transform:uppercase;font-family:FontAwesome;}
+#top-BD ul li:hover{background:rgba(44, 139, 197, 0.8);}
 .BDsosial a{display:block;height:50px;width:50px;padding:0 4px;float:right;background:url(http://1.bp.blogspot.com/-hQKmPzvFCU8/Ue7FWBeCjMI/AAAAAAAABk8/0iFSHsrQijo/s1600/Sharing+buttons.png) no-repeat transparent;-webkit-transition:ease-in 0.2s all;-moz-transition:ease-in 0.2s all;transition:all 0.2s ease-in;cursor:pointer}
 .BDsosial a.googleplus{background-position:0 -58px}
 .BDsosial a.googleplus:hover{background-position:0 0}
