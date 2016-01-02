@@ -106,7 +106,11 @@ body#layout:after {content:"DESIGN BY CMONFROZEN";font-size: 15px !important;pos
     width: 555px;
 }
 /*Nav Menu*/
-
+#top-BD{background: #0097A7;height: 65px;width: 990px;min-width: 970px;position: relative;left: 180px;z-index: 9999;overflow: hidden;}
+#top-BD ul{margin:30px auto;width:970px;list-style-type:none;height:30px;}
+#top-BD ul li{float:left;}
+#top-BD ul li a{position:relative;line-height:5px;padding:10px 5px;color:#FFF;font-size:13px;text-decoration:none;font-weight:700;text-transform:uppercase;font-family:FontAwesome;}
+#top-BD ul li:hover{background:rgba(44, 139, 197, 0.8);}
 */ 
 ----------------------------------------------------------------- */
 .bagiin  {
